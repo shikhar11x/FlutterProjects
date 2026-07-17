@@ -3,6 +3,31 @@
 A curated collection of my Flutter applications showcasing mobile development, responsive UI, Firebase integration, REST APIs, real-time communication, and clean architecture.
 
 ---
+## 💻 CodeLink
+
+A real-time collaborative code editor built with Flutter Web and Socket.io. Users can create coding sessions, collaborate live, execute code in multiple languages, and share sessions instantly.
+
+**Highlights**
+- Real-time collaboration
+- Multi-language code execution
+- QR code & shareable session links
+
+[![View Repository](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/shikhar11x/Flutter-codeLink)
+
+---
+
+## 🛡️ Vanguard Safety App
+
+A personal safety application featuring SOS alerts, GPS tracking, incident reporting, and an admin monitoring dashboard powered by Firebase.
+
+**Highlights**
+- Real-time SOS & GPS tracking
+- Firebase Authentication & Firestore
+- Admin monitoring panel
+
+[![View Repository](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/shikhar11x/flutter-vanguard-safety-app)
+
+---
 
 ## 💼 Job Listing App
 
@@ -43,19 +68,6 @@ A modern responsive Flutter dashboard for web and mobile featuring analytics, em
 
 ---
 
-## 💻 CodeLink
-
-A real-time collaborative code editor built with Flutter Web and Socket.io. Users can create coding sessions, collaborate live, execute code in multiple languages, and share sessions instantly.
-
-**Highlights**
-- Real-time collaboration
-- Multi-language code execution
-- QR code & shareable session links
-
-[![View Repository](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/shikhar11x/Flutter-codeLink)
-
----
-
 ## 📚 LingoBreeze
 
 A vocabulary learning application that helps users save, organize, and review words using Flutter, Firebase Firestore, and a Node.js backend.
@@ -66,19 +78,6 @@ A vocabulary learning application that helps users save, organize, and review wo
 - Clean architecture with Provider
 
 [![View Repository](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/shikhar11x/Lingobreeze)
-
----
-
-## 🛡️ Vanguard Safety App
-
-A personal safety application featuring SOS alerts, GPS tracking, incident reporting, and an admin monitoring dashboard powered by Firebase.
-
-**Highlights**
-- Real-time SOS & GPS tracking
-- Firebase Authentication & Firestore
-- Admin monitoring panel
-
-[![View Repository](https://img.shields.io/badge/View-Repository-181717?style=for-the-badge&logo=github)](https://github.com/shikhar11x/flutter-vanguard-safety-app)
 
 ---
 
